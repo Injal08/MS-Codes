@@ -1,25 +1,15 @@
-# NetCDF/GRIB/HDF to CSV Converter using Xarray
+# MS Academic Project Codes
 
-This project demonstrates how to read multi-dimensional scientific datasets (e.g., NetCDF, GRIB, HDF, Zarr) using **Xarray** and convert them into a CSV file for easier analysis.
+This folder contains the codes written and used during my Master's (MS) academic projects.  
+They were developed for coursework, research experiments, and data analysis tasks.
 
----
+## Overview
+- Written as part of MS-level academic work.
+- Includes scripts for data handling, analysis, visualization, and exporting results.
+- Tailored to specific project datasets and requirements.
 
-## 📌 Features
-- Reads NetCDF (and similar formats) using `xarray`.
-- Converts datasets into Pandas DataFrame format.
-- Exports the data to a CSV file.
-
----
-
-## 📂 Requirements
-The following Python libraries are required:
-
-- xarray
-- netCDF4
-- pandas
-- xlsxwriter
-- openpyxl
-
-Install them with:
+## Requirements
+These scripts use Python and common libraries.  
+Install necessary libraries with:
 ```bash
-pip install xarray netCDF4 pandas xlsxwriter openpyxl
+pip install -r requirements.txt
