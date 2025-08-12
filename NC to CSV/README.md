@@ -1,42 +1,15 @@
-\# NetCDF to CSV Conversion Tool
+# NetCDF to CSV Converter
 
+This script converts a **NetCDF** file into a **CSV** file using Python.
 
+## Requirements
+- Python 3.x
+- xarray
+- netCDF4
+- pandas
+- openpyxl
+- XlsxWriter
 
-This script reads \*\*NetCDF\*\* data (e.g., precipitation datasets) and converts it into a \*\*CSV\*\* file for easier analysis.
-
-
-
-\## What It Does
-
-\- Uses `xarray` to open and handle NetCDF datasets.
-
-\- Converts the dataset to a Pandas DataFrame.
-
-\- Saves the DataFrame as a CSV file.
-
-
-
-\## Requirements
-
-\- Python 3.x
-
-\- xarray
-
-\- netCDF4
-
-\- pandas
-
-\- XlsxWriter
-
-\- openpyxl
-
-
-
-Install with:
-
+Install:
 ```bash
-
 pip install netCDF4 pandas xlsxwriter openpyxl
-
-
-
