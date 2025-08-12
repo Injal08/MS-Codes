@@ -1,30 +1,30 @@
-\# Correlation Analysis Tool
+# Correlation Analysis Tool
 
 
 
-This script reads data from an Excel file and calculates correlation between variables such as \*\*precipitation (PPT)\*\*, \*\*temperature\*\*, and \*\*change\*\*.
+This script reads data from an Excel file and calculates correlation between variables such as **precipitation (PPT)**, **temperature**, and **change**.
 
 
 
-\## What It Does
+## What It Does
 
-\- Reads Excel data into Python using `pandas`.
+- Reads Excel data into Python using `pandas`.
 
-\- Calculates the correlation coefficient between selected columns.
+- Calculates the correlation coefficient between selected columns.
 
-\- Outputs a correlation matrix for multiple variables.
+- Outputs a correlation matrix for multiple variables.
 
-\- Handles missing values before correlation calculation.
+- Handles missing values before correlation calculation.
 
 
 
-\## Requirements
+## Requirements
 
-\- Python 3.x
+- Python 3.x
 
-\- pandas
+- pandas
 
-\- openpyxl (for reading Excel files)
+- openpyxl (for reading Excel files)
 
 
 
