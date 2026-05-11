@@ -130,16 +130,6 @@ These can be adjusted at the top of the notebook to adapt the analysis to a diff
 | [`COPERNICUS/S1_GRD`](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD) | Sentinel-1 C-band SAR Ground Range Detected imagery |
 | [`GOOGLE/DYNAMICWORLD/V1`](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1) | Dynamic World near-real-time land use/land cover |
 
----
 
-## 📝 Notes
 
-- The soil moisture values are a **proxy** derived from normalised VV backscatter, not absolute volumetric water content.
-- The land mask excludes water bodies (class 0) and built-up areas (class 6) using the Dynamic World modal classification.
-- Statistical significance of the trend is assessed at α = 0.05.
 
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
