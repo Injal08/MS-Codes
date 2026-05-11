@@ -1,10 +1,9 @@
-# MS Academic Project Codes
+# Project Codes
 
-This folder contains the codes written and used during my Master's (MS) academic projects.  
+This folder contains the codes written for individual projects.  
 They were developed for coursework, research experiments, and data analysis tasks.
 
 ## Overview
-- Written as part of MS-level academic work.
 - Includes scripts for data handling, analysis, visualization, and exporting results.
 - Tailored to specific project datasets and requirements.
 
