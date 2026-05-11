@@ -97,17 +97,6 @@ Data retrieval from GEE typically takes **1–2 minutes**. The final plot is sav
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── Soil_Moisture.ipynb       # Main analysis notebook
-├── sm_combined_trendline.png # Output figure (generated on run)
-└── README.md
-```
-
----
-
 ## 🔑 Key Parameters
 
 These can be adjusted at the top of the notebook to adapt the analysis to a different region or time period:
